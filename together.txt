@@ -1,0 +1,6 @@
+My capstone project will be to reflect on the data collected during the COVID-19 pandemic in the United States, on the weekly death counts, causes of death, hospital admissions, bed occupancy, and vaccination administrations. 
+Stastical analyses on that available data  will provide insights into:
+- The impact of COVID-19 on mortality rates and it compares to other causes of death over time. 
+- The impact of COVID-10 and influenza on hospital inpatient and ICU resources, and how the healthcare system in each state responded to the demands over the pandemic.
+- The effectiveness of vaccine distribution strategies, population preferences, and the overall progress of the vaccination campaign across different age groups and states.
+[Anuja Sharma]
